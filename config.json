@@ -1,0 +1,10 @@
+{
+  "port": 8888,
+  "mode": "whitelist",
+  "whitelist": [
+    "https://graphql.datocms.com",
+    "https://www.datocms-assets.com",
+    "https://site-api.datocms.com"
+  ],
+  "blacklist": []
+}
